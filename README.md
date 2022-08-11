@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Programming Basics**
 
-- 💬 Ask me about **OOP, Data Structures, Algorithms**
+- 💬 Ask me about **OOP, Data Structures, Algorithms, Databases**
 
 - 📫 How to reach me **mahmoudhaney25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-haney-557a3b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-haney-557a3b1b6/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https:https://www.linkedin.com/in/mahmoud-haney-557a3b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-haney-557a3b1b6/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/m7mod_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m7mod_h" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahmoudhaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudhaney" height="30" width="40" /></a>
 </p>
