@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Haney</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
 
+
+<a href="https://mahmoudhaney.me/" target="blank"><h3 align="center">My Personal Website</h3></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudhaney&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudhaney" /> </p>
 
-- 🌱 I’m currently learning **Programming Basics**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **OOP, Data Structures, Algorithms, Databases**
 
