@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudhaney&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudhaney" /> </p> -->
 👋 Hey there, I'm **Mahmoud Haney** 
-I'm a passionate backend developer with expertise in `Python` and `Django`, dedicated to crafting robust and scalable systems and applications. My journey into the world of    coding began with a curiosity-driven exploration, and it has evolved into a commitment to delivering high-quality solutions.
+Seeking a position as a backend where I can leverage my skills in developing database schema, creating REST APIs for third-party integration, and optimizing product development by creating unit tests to make a positive impact.
 
 ## 💻 Tech Stack
 - Languages: `Python` `JavaScript` `SQL`
